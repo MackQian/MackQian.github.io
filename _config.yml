@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mack Qian"
 title_separator          : "-"
 name                     : &name "Mack Qian"
-description              : &description "RPI CS student graduating 2021"
+description              : &description "Graphics Software Engineer"
 url                      : https://mackqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/MackQian.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Mack Qian"
   avatar           : "profile.png"
-  bio              : 
+  bio              :
   location         : "US"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "qianm@rpi.edu"
-  researchgate     :  
+  pubmed           :
+  googlescholar    :
+  email            : "mackqian@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "mack-qian-5a8068191"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
